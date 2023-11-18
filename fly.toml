@@ -4,7 +4,7 @@
 #
 
 app = "hello-django"
-primary_region = "fra"
+primary_region = "ams"  # TODO: update the region: https://fly.io/docs/reference/regions/
 console_command = "/code/manage.py shell"
 
 [env]
